@@ -6,7 +6,7 @@ To get started, simply obtain an API key from Google's Generative AI Developers.
 
 ### Key Features:
 
-****User-Friendly Configuration:**** <br/> We've exposed essential settings for customization, including safetySettings, stopSequences, temperature, candidateCount, maxOutputTokens, topP, and topK.<br/><br/>
+****User-Friendly Configuration:**** <br/> I've exposed essential settings for customization, including safetySettings, stopSequences, temperature, candidateCount, maxOutputTokens, topP, and topK.<br/><br/>
 ****Detailed Documentation:**** <br/> Each setting is comprehensively explained, ensuring you understand their purpose and how to leverage them effectively in your Unity project.
 
 <br/>Video: https://drive.google.com/file/d/1S2ixr3f9Zy840Ygx4VWwsKfLWk6GO8AR/view?usp=drive_link <br/> <br/>
