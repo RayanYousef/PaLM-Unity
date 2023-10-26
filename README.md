@@ -1,4 +1,5 @@
 # PaLM (Unity)
+### Description:
 This repository facilitates the integration of Google's PaLM with Unity.<br/>
 PaLM empowers your Unity projects with advanced language generation capabilities.<br/> 
 To get started, simply obtain an API key from Google's Generative AI Developers. (https://developers.generativeai.google/)
