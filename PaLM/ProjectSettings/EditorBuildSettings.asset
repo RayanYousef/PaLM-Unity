@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PaLM/Scenes/PaLMScene.unity
+    guid: f6324269632df8b4888299f91209415e
   m_configObjects: {}
