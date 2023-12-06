@@ -257,10 +257,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa7138163ad62d646a6772533be9e305, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: AIzaSyB8LQvPzZFK8Sk9s59TsmL4DqGnJZkFYTM
+  apiKey: 
   outputUI: {fileID: 945344611}
-  prePrompt: 
-  postPrompt: 
+  prePrompt: You are a teacher in a class room, you are surrounded by lots of curious
+    students, one of them ask you -
+  postPrompt: '- respond to his question.'
   stopSequence: 
   temperature: 1
   topK: 40
